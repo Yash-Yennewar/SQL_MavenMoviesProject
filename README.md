@@ -40,7 +40,7 @@ Maven Movies is a data-driven project aimed at optimizing a movie rental busines
 
 * **SQL:** For data extraction, transformation, and analysis.
 * **MAVENMOVIES Database:** Primary data source for movie rentals.
-* **Excel/Google Sheets:** For further data visualization (optional).
+* **Exploratory Data Analysis (EDA):** To uncover patterns, trends, and insights within the data.
 
 ---
 
