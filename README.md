@@ -1,3 +1,5 @@
+💡 SQL Project by Yash Yennewar
+
 # 🎬 Maven Movies: Data-Driven Insights for a Thriving Rental Business
 
 ![Project Banner](Code_outputs/movies.jpg)
