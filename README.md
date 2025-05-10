@@ -9,7 +9,7 @@
 Maven Movies is a data-driven project aimed at optimizing a movie rental business through comprehensive analysis of the *MAVENMOVIES* database. By leveraging SQL for deep data exploration, this project identifies actionable insights to enhance marketing, inventory management, and revenue generation.
 
 
-!![Project Code](mavenmoviesproject(Code).sql)
+(mavenmoviesproject(Code).sql)
 
 ---
 
