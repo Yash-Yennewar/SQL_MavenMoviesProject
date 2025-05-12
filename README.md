@@ -75,7 +75,7 @@ Retrieve customer first name, last name, and email ID.
 ![Total Movies per Rental Rate](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Rental-Rate-Distribution.png)
 
 ### 4. Most Common Movie Rating
-![Rating Count](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Unique-Movie-Rating.png)
+![Rating Count](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Unique-Movie-Ratings.png)
 
 ### 5. Most Prevalent Rating per Store
 ![Rating per Store](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Most-Prevalent-Rating.png)
@@ -114,7 +114,7 @@ Retrieve customer first name, last name, and email ID.
 ![Behind the Scenes Films](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Films-with-Special-Feature.png)
 
 ### 17. Unique Movie Ratings and Count
-![Unique Ratings](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Unique-Movie-Rating.png)
+![Unique Ratings](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Unique-Movie-Ratings.png)
 
 ### 18. Titles Count by Rental Duration
 ![Rental Duration Count](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Titles-Count-by-Rental-Duration.png)
