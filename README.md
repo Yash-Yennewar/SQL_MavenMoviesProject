@@ -72,22 +72,22 @@ Retrieve customer first name, last name, and email ID.
 ![Cheapest Rental](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/CHEAPEST_RENTALS.png)
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/TOTAL_NO_OF_MOVIES.png)
+![Total Movies per Rental Rate](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/TOTAL_NUMBER_OF_MOVIES.png)
 
 ### 4. Most Common Movie Rating
-![Rating Count](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/rating_wise_count.png)
+![Rating Count](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/RATING_WISE_COUNT.png)
 
 ### 5. Most Prevalent Rating per Store
-![Rating per Store](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/rating_to_store.png)
+![Rating per Store](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/TOTAL_FILMS.png)
 
 ### 6. List of Films by Name, Category, and Language
-![Film List](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/TLC.png)
+![Film List](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/CATEGORY_NAME.png)
 
 ### 7. Movie Rental Frequency
-![Rental Popularity](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/popularity.png)
+![Rental Popularity](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/POPULARITY.png)
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/REVENUE.png)
+![Revenue per Film](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/REVENUE_PER_MOVIE.png)
 
 ### 9. Highest Spending Customer
 ![Most Spending Customer](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/MOST_SPENDING_CUSTOMER.png)
