@@ -25,7 +25,7 @@ select first_name,last_name,email from customer;
 
 -- How many movies are with rental rate of $0.99? --
 
-select count(*) from film where rental_rate = '0.99';
+select count(*) AS total_count_of_movies from film where rental_rate = '0.99';
 
 -- --------------------------------------------------------------------------------
 
