@@ -120,7 +120,7 @@ Retrieve customer first name, last name, and email ID.
 ![Rental Duration Count](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Titles-Count-by-Rental-Duration.png)
 
 ### 19. Ratings, Movie Count, Length, and Rental Duration
-![Ratings and Rental Duration](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Ratings-Movie-Count-Length-and-Rental-Duration.png)
+![Ratings and Rental Duration](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Ratings-Movie-Count-Legth-and-Rental-Duration.png)
 
 ### 20. Film Count by Replacement Cost with Rental Rates
 ![Replacement Cost Analysis](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Film-Count-by-Replacement-Cost-with-Rental-Rates.png)
@@ -129,7 +129,7 @@ Retrieve customer first name, last name, and email ID.
 ![Low Rental Customers](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Customers-with-Less-Than-15-Rentals.png)
 
 ### 22. Longest Films Sorted by Length and Rental Rate
-![Longest Films](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Longest Films-Sorted-by-Length-and-Rental-Rate.png)
+![Longest Films](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Longest-Films-Sorted-by-Length-and-Rental-Rate.png)
 
 ### 23. Categorization of Movies by Length
 ![Movies Categorized by Length](https://github.com/Yash-Yennewar/SQL_MavenMoviesProject/blob/main/Code_outputs/Categorization-of-Movies-by-Length.png)
